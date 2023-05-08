@@ -191,6 +191,7 @@ button {
 .menu-link:hover,
 .menu-link:focus {
   color: var(--accent-color);
+  position: absolute;
 }
 
 .contact-info {
